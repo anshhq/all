@@ -1,0 +1,13 @@
+{
+  "cisco-inc": {
+    "management": [
+      "clowns",
+      "helpless",
+      "jokers",
+      "powerless",
+      "undependable",
+      "unreliable",
+      "weak"
+    ]
+  }
+}
