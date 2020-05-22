@@ -1,3 +1,4 @@
 JavaScript: Understanding the Weird Parts| 2020|  UC-c0b5c078-ed8c-464f-9788-1261877146e5.pdf
 Complete Python Bootcamp: Go from zero to hero in Python 3| 2020| UC-fa37c94e-cdd8-4e28-a65a-d7214e2a829c.pdf
-Angular - The Complete Guide (2020 Edition)| 2020| UC-a0a197de-04be-4ce9-8782-1361c0e27c8f
+Angular - The Complete Guide (2020 Edition)| 2020| UC-a0a197de-04be-4ce9-8782-1361c0e27c8f.pdf
+MERN Stack Front To Back: Full Stack React, Redux & Node.js| 2020| UC-ef086fdd-9375-4bf1-8cd1-80e32cbdf4c7.pdf
